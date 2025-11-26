@@ -11,4 +11,4 @@ function timmaxArr(arr) {
          }
          return max;
 } 
-console.log(" so lon nhat trong mang la: " + timmaxArr([1,5,2,8,99]));
+console.log(" so lon nhat trong mang la: " + timmaxArr([1,3,4,6,7,100]));
