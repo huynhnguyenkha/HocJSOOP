@@ -29,24 +29,7 @@ function BubbleSort(arr)
   let mangDaSapXep = BubbleSort(mangTest);
   console.log(" Mang sau khi sap xep: " + mangDaSapXep);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bai new
   function bubblesort(arr) { 
       let n = arr.length;
       for( let i = 0; i < n-1; i++)
@@ -67,3 +50,5 @@ function BubbleSort(arr)
   console.log("Mang truoc khi sap xep: " + mangthutest);
   let mangdasp = bubblesort(mangthutest);
     console.log("Mang sau khi sap xep: " + mangdasp);   
+
+    
